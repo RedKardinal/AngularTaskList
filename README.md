@@ -4,10 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Screenshots
 Main Page
-<img src="" alt="Anglefish" height="300px" width="300px"/>
+<img src="/src/assets/MainPage.png" alt="Task Page" height="300px" width="300px"/>
 
 About Page
-<img src="assets/AngularAnglefish.jpg" alt="Anglefish" height="300px" width="300px"/>
+<img src="/src/assets/AboutPage.png" alt="About Page" height="300px" width="300px"/>
 
 
 ## Spin Up
