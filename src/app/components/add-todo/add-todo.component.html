@@ -1,0 +1,8 @@
+<div>
+    <!-- ngSubmit prevents default -->
+<form class="form" (ngSubmit)="onSubmit()">
+    <!-- ngModel binds event title -->
+    <input type="text" name="title" [(ngModel)]="title" placeholder="Add Task">
+    <input type="submit" value="Submit" class="btn">
+</form>
+</div>
